@@ -16,7 +16,7 @@ authentic African dishes made with locally sourced ingredients.
 
 ### Screenshot
 
-![](./images/vydas.gif)
+![](./images/vydas.png)
 
 
 ### Links
